@@ -28,10 +28,10 @@ global.footer = 'Fahri Botz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6283172862360']
-global.premium = ['6283172862360']
-global.packname = 'Fahri Botz'
-global.ownerr = ['Fahri Botz']
-global.author = 'Fahri Botz'
+global.premium = ['6281214281312']
+global.packname = 'HW MODS WA'
+global.ownerr = ['HW MODS WA']
+global.author = 'HW MODS WA'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
